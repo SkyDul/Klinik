@@ -135,7 +135,7 @@ if (isset($_GET['edit'])) {
 
 <aside class="hidden md:flex flex-col fixed left-0 top-16 h-[calc(100vh-64px)] w-64 p-4 space-y-2 bg-slate-50 dark:bg-slate-950 border-r border-slate-200 dark:border-slate-800 font-inter text-sm">
     <div class="mb-6 px-2">
-        <h2 class="text-lg font-black text-primary dark:text-blue-400 uppercase tracking-tight">Sistem Pasien</h2>
+        <h2 class="text-lg font-black text-primary dark:text-blue-400 uppercase tracking-tight">Sistem Pasien - cicd</h2>
         <p class="text-slate-500 text-xs">Admin Portal</p>
     </div>
     <div class="space-y-1">
