@@ -21,7 +21,7 @@ jobs:
       - name: Deploy to ECS
         run: |
           ssh -o StrictHostKeyChecking=no ubuntu@3.106.117.38 << 'EOF'
-          cd /var/www/mywebsite/TugasTracker
+          cd /var/www/Klinik
           sudo git pull origin main
           # Restart Nginx or any other service if needed
           sudo systemctl restart nginx
