@@ -112,7 +112,7 @@ if (isset($_GET['edit'])) {
 
 <header class="fixed top-0 w-full z-50 flex justify-between items-center px-6 h-16 bg-white dark:bg-slate-900 shadow-sm border-b border-slate-200 dark:border-slate-800 font-inter antialiased">
     <div class="flex items-center gap-8">
-        <span class="text-xl font-bold text-primary dark:text-blue-400">Sistem Manajemen Data Pasien</span>
+        <span class="text-xl font-bold text-primary dark:text-blue-400">Sistem Manajemen Data Pasien - tes cicd</span>
         <nav class="hidden md:flex gap-6">
             <a class="text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-blue-300 transition-colors" href="coming-soon.php">Dashboard</a>
             <a class="text-primary dark:text-blue-400 border-b-2 border-primary font-semibold pb-1" href="pasien.php">Pasien</a>
